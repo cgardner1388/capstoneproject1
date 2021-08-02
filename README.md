@@ -1,2 +1,2 @@
-# capstoneproject1
+# Project 1 : CURRENT COVID DATA ANALYSIS 
 
