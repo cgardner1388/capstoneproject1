@@ -76,12 +76,12 @@ Hypothesis Set 2:
 
   This correlation was further quantified through calculation of the Pearson’s Correlation Coefficient at 0.33 with the same p-value. 
 
-  Additionally, using the Augmented Dickey Fuller test the second hypothesis set was evaluated with a p-value of 1.00. It was determined that as time advances, the number of new daily cases of Covid-19 increases. 
+  Additionally, using the Augmented Dickey Fuller test the second hypothesis set was evaluated with a p-value of 1.00 which tells us that data is not stationary. It was determined that as time advances, the number of new daily cases of Covid-19 increases. 
 
 ![image](https://user-images.githubusercontent.com/83737584/127935165-a4037d59-a16d-4d18-b229-b158c2b8fa1b.png)
 
 ## Conclusion:
-   Using the above mentioned analysis and calculations it has been determined that of Hypothesis Set 1, the alternative hypothesis, that there is a dependency between cases and vaccinations, appears to have been established; also, of Hypothesis Set 2, the null hypothesis, that there is a unit root present and the series is stationary. In other words, analysis of the data available indicates that while vaccination counts are rising, new Covid-19 cases are rising as well and as time advances they rise at a greater rate. 
+   Using the above mentioned analysis and calculations it has been determined that of Hypothesis Set 1, the alternative hypothesis, that there is a dependency between cases and vaccinations, appears to have been established; also, of Hypothesis Set 2, the null hypothesis, that there is a unit root present and the series is non stationary. In other words, analysis of the data available indicates that while vaccination counts are rising, new Covid-19 cases are rising as well and as time advances they rise at a greater rate. 
 	
    Further analysis based on a larger time frame (say 90 or 180 days) might give additional information. It could be that vaccination counts have not yet come to a number that would cause Covid-19 cases to fall or that the new Delta (or any subsequent) variant will cause Covid-19 cases to continue to rise despite increasing vaccination counts. At this time however, the suggestion of this analysis to any business owner or manager would be to prepare an action plan for further restrictions due to rise in Covid-19 cases. 
 	
